@@ -92,7 +92,7 @@ DeepFake_Detection1/
 
 ## 🙌 Credits
 
-- Developed by Sambhav Kumar for Hackathon Project
+- Developed by Sambhav Kumar Sahoo
 - Built using: `Flask`, `dlib`, `OpenCV`, `matplotlib`, `scikit-learn`, and more
 
 ---
@@ -100,5 +100,5 @@ DeepFake_Detection1/
 ## 📬 Contact
 
 Feel free to connect or raise an issue if you face any problem.  
-📧 Email: [add your email here]  
-🔗 LinkedIn: [add LinkedIn URL here]
+📧 Email: [sambhavsahoo109@gmail.com]  
+🔗 LinkedIn: [https://www.linkedin.com/in/sambhav-sahoo-47ab0a289]
