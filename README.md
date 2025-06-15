@@ -8,7 +8,7 @@ A Flask-based web application for detecting deepfake videos using face recogniti
 
 - Upload video and detect deepfakes
 - Frame-by-frame face detection using `dlib`
-- Real-time prediction with accuracy scores
+- Real-time prediction with accuracy score
 - Pie chart visualizations and model comparisons
 - Clean and interactive web interface (Flask)
 
