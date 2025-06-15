@@ -64,6 +64,7 @@ Expected output:
 ```
 
 ---
+⚠️ Note: This wheel file is for Windows users only. If you're on macOS or Linux, please refer to the [official dlib installation guide](http://dlib.net/).
 
 ## ▶️ Run the Application
 
