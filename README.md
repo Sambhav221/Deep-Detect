@@ -40,6 +40,8 @@ pip install -r requirements.txt
 
 ## 🧠 dlib Installation on Windows
 
+“Due to GitHub file size limits, the dlib package (.whl) is provided instead of source files. Please install it manually using the command below.”
+
 Since `dlib` may not install via pip directly on Windows, use this precompiled wheel:
 
 📦 [Download dlib-19.22.99 .whl](https://drive.google.com/file/d/1NCPdZ1FbInnFQpZuUFgywCbzGxCFkuWp/view?usp=sharing)
